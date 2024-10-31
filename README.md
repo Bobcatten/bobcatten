@@ -1,16 +1,21 @@
-## Hi there 👋
+# [hsBUPT.github.io]()
 
-<!--
-**Bobcatten/bobcatten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+## This project is adapted from GitHub imsyy's home. You can fork it to your own repository and name it `username.github.io`, then run it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### update log
+
+#### Ver 1.1
+
+**Search boxes and styles have been added to the original author, ~~and click events and search engines will be added later.~~** **Join the search engine and optimize the search experience.Join the search engine and optimize the search experience.**
+
+![search-btn](https://img1.imgtp.com/2023/06/03/7iz95ogk.png)
+
+![search-line](https://img1.imgtp.com/2023/06/03/bG5fqM9L.png)
+
+### Tips
+
+**After I add the search engine, You can set this Demo as the browser home page through the edge Settings.**
+
+![](https://img1.imgtp.com/2023/06/03/GSytnrP1.png)
